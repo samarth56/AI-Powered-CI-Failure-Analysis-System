@@ -39,6 +39,7 @@ Display results directly in the Jenkins console
 Persist logs and AI analysis for future reference
 
 🏗️ Architecture Overview
+<img width="1536" height="1024" alt="img1" src="https://github.com/user-attachments/assets/8649ebb2-7f27-408a-a054-8a584a48c8c4" />
 
 Flow:
 
